@@ -4,4 +4,5 @@
     <string name="true_text">TRUE</string>
     <string name="false_text">FALSE</string>
     <string name="does_version_control_work">derp</string>
+    <string name="checked_out_local_master_branch">herp</string>
 </resources>
