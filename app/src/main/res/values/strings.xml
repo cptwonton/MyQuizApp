@@ -3,4 +3,5 @@
     <string name="question_text">Is Chicago the capital of Illinois?</string>
     <string name="true_text">TRUE</string>
     <string name="false_text">FALSE</string>
+    <string name="does_version_control_work">derp</string>
 </resources>
